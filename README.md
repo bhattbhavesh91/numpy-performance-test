@@ -10,12 +10,12 @@
 ## To view the video
 <table>
    <tr>
-      <td><a href="http://www.youtube.com/watch?v=PkgFOhrwOnY" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/PkgFOhrwOnY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+      <td><a href="http://www.youtube.com/watch?v=1L209EoGxiU" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/1L209EoGxiU?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
    </tr>
 </table>
 or click on the image below
 
-[![Python NumPy Speed Comparison with Base Python Function](http://img.youtube.com/vi/PkgFOhrwOnY/0.jpg)](http://www.youtube.com/watch?v=PkgFOhrwOnY)
+[![Python NumPy Speed Comparison with Base Python Function](http://img.youtube.com/vi/1L209EoGxiU/0.jpg)](http://www.youtube.com/watch?v=1L209EoGxiU)
 
 ### Want to know more about me?
 ## Follow Me
